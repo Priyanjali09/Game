@@ -3,16 +3,20 @@ Game
 This game is SNAKE WATER GUN game.
 
 This game is a very common and simple game played and enjoyed among friends be it children or adults.
-But this time, You are playing to play this game not with a human friend but a machine frind!
+But this time, You are going to play this game not with a human friend but a machine frind!
 
 This game requires two input users say, user1 and user2 and based upon the inputs that can be any out of snake,water or gun, multiple conditions exists which are mentioned as follows:
 If user1 gives the input as a snake and user2 also as snake, the match draws.
 
 If user1 give input as snake and user2 as water, the snake would drink all the water and hence user1 will win.
+
 If user1 give input as snake and user2 as gun,the gun will shoot the snake and hence user2 will win.
+
 If user1 give input as water and user2 alse as water, the match will draw.
+
 If user1 give input as water and user2 as gun, gun will sink into the water and hence user1 will win.
-If user1 give input as gun and user2 also as gun, the amtch will draw.
+
+If user1 give input as gun and user2 also as gun, the match will draw.
 
 And hence in this way the game will proceed.
 Here, win corresponds to True and Loose corresponds to False!
